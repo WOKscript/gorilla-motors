@@ -1,0 +1,10 @@
+{
+  "name": "gorilla-motors",
+  "version": "1.0.0",
+  "description": "Gorilla Motors — Quality Used Vehicles Buy & Sell Platform",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve public -l 3000",
+    "build": "echo 'Static site — no build needed'"
+  }
+}
